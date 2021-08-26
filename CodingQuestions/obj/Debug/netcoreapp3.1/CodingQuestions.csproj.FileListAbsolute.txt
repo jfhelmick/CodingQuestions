@@ -1,0 +1,14 @@
+E:\Justin\Projects\CodingQuestions\CodingQuestions\bin\Debug\netcoreapp3.1\CodingQuestions.exe
+E:\Justin\Projects\CodingQuestions\CodingQuestions\bin\Debug\netcoreapp3.1\CodingQuestions.deps.json
+E:\Justin\Projects\CodingQuestions\CodingQuestions\bin\Debug\netcoreapp3.1\CodingQuestions.runtimeconfig.json
+E:\Justin\Projects\CodingQuestions\CodingQuestions\bin\Debug\netcoreapp3.1\CodingQuestions.runtimeconfig.dev.json
+E:\Justin\Projects\CodingQuestions\CodingQuestions\bin\Debug\netcoreapp3.1\CodingQuestions.dll
+E:\Justin\Projects\CodingQuestions\CodingQuestions\bin\Debug\netcoreapp3.1\CodingQuestions.pdb
+E:\Justin\Projects\CodingQuestions\CodingQuestions\obj\Debug\netcoreapp3.1\CodingQuestions.csproj.AssemblyReference.cache
+E:\Justin\Projects\CodingQuestions\CodingQuestions\obj\Debug\netcoreapp3.1\CodingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Justin\Projects\CodingQuestions\CodingQuestions\obj\Debug\netcoreapp3.1\CodingQuestions.AssemblyInfoInputs.cache
+E:\Justin\Projects\CodingQuestions\CodingQuestions\obj\Debug\netcoreapp3.1\CodingQuestions.AssemblyInfo.cs
+E:\Justin\Projects\CodingQuestions\CodingQuestions\obj\Debug\netcoreapp3.1\CodingQuestions.csproj.CoreCompileInputs.cache
+E:\Justin\Projects\CodingQuestions\CodingQuestions\obj\Debug\netcoreapp3.1\CodingQuestions.dll
+E:\Justin\Projects\CodingQuestions\CodingQuestions\obj\Debug\netcoreapp3.1\CodingQuestions.pdb
+E:\Justin\Projects\CodingQuestions\CodingQuestions\obj\Debug\netcoreapp3.1\CodingQuestions.genruntimeconfig.cache
